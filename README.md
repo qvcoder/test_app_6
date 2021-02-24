@@ -1,1 +1,1 @@
-1. Complete Ruby on Rails Developer
+1. Complete Ruby on Rails Developer by Kevin Nguyen
