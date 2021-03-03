@@ -1,1 +1,1 @@
-1. Complete Ruby on Rails Developer by Kevin Nguyen
+1. First Test repo on the Complete Ruby on Rails Developer by Kevin Nguyen
